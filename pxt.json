@@ -1,0 +1,30 @@
+{
+    "name": "Robot Extension Test Real 1 Real",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "Robot Extension Test 2": "github:MrDGuy/robot-extension-test-2#d44ece224424477ff3377018e87e208f6a02144d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}
