@@ -1,11 +1,11 @@
 {
-    "name": "Robot Extension Test Real 1 Real",
+    "name": "Robot Extension Multiple Tilemaps",
     "description": "",
     "dependencies": {
         "device": "*",
         "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
         "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
-        "Robot Extension Test 2": "github:MrDGuy/robot-extension-test-2#d44ece224424477ff3377018e87e208f6a02144d"
+        "Robot Extension": "github:MrDGuy/robot-extension#5301d4b60883dfe513a2595d60146f5e47204c21"
     },
     "files": [
         "main.blocks",
@@ -14,7 +14,9 @@
         "assets.json",
         "tilemap.g.jres",
         "tilemap.g.ts",
-        "main.py"
+        "main.py",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
