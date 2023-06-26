@@ -17,7 +17,8 @@
         "tilemap.g.ts",
         "main.py",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "first-tutorial.md"
     ],
     "testFiles": [
         "test.ts"
