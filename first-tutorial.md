@@ -12,7 +12,7 @@ Explore with the robot!
 
 Use the ``||robot:move forward||`` block to move the robot.
 
-```
+```python
 // @highlight
 robot.move_forward()
 ```
@@ -21,7 +21,7 @@ robot.move_forward()
 
 Determine whether the robot can move using the ``||robot:can move||`` block.
 
-```
+```python
 // @highlight
 if robot.can_move("right"):
     robot.turn_right()
@@ -32,7 +32,7 @@ if robot.can_move("right"):
 
 Collect any coins with the detect coin ``||robot:detect coin||`` block.
 
-```
+```python
 if robot.detect_coin():
     robot.collect_coin()
 ```
