@@ -2,7 +2,7 @@
 
 ## Introduction @unplugged
 
-First create a character to star in your game!
+Explore with the robot!
 
 ![Image description](https://github.com/Maynard-Jackson-Computer-Science/robot-extension-template1/blob/master/robot-move-1.gif)
 
