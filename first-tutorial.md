@@ -4,7 +4,7 @@
 
 First create a character to star in your game!
 
-![Image description](https://raw.githubusercontent.com/Maynard-Jackson-Computer=Science/robot-extension-template1/robot-move-1.gif)
+![Image description](https://github.com/Maynard-Jackson-Computer-Science/robot-extension-template1/blob/master/robot-move-1.gif)
 
 
 
