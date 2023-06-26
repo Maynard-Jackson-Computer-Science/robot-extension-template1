@@ -4,7 +4,9 @@
 
 First create a character to star in your game!
 
-![Image description](https://raw.githubusercontent.com/microsoft/pxt-tutorial-sample/master/images/enemies.gif)
+![Image description](https://raw.githubusercontent.com/Maynard-Jackson-Computer=Science/robot-extension-template1/robot-move-1.gif)
+
+
 
 ## Step One
 
