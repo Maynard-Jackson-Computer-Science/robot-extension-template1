@@ -5,7 +5,8 @@
         "device": "*",
         "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
         "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
-        "Robot Extension": "github:MrDGuy/robot-extension#5301d4b60883dfe513a2595d60146f5e47204c21"
+        "multiplayer": "*",
+        "Robot Extension": "github:mrdguy/robot-extension#435f5b4be32f59c0cab83bc8b07ac6268af915c5"
     },
     "files": [
         "main.blocks",
@@ -28,5 +29,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "tsprj"
 }
